@@ -1,1 +1,0 @@
- Suggestion by Naveen Suggestion: Enhance Pathway's Windows compatibility to support native installation without requiring a virtual machine
